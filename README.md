@@ -25,10 +25,10 @@ This analysis proves that opening a surf and ice cream shop in Oahu could be a g
 
 In order to gather more data, it could be beneficial to run queries to find the statistical information about precipitation for both June and December. 
 
-June Precipiation Statistics:
+June Precipiation Query:
 
 ![June_Precip_Query](https://user-images.githubusercontent.com/109561408/192921862-4b5dc6dd-81fb-4267-a454-51612a48209b.png)
 
-December Precipiation Statistics:
+December Precipiation Query:
 
 ![Dec_Precip_Query](https://user-images.githubusercontent.com/109561408/192921894-c467f688-95e5-4c96-b07c-2cb5eea50303.png)
