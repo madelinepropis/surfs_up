@@ -11,9 +11,9 @@ June Statistics:
 
 December Statistics:
 
-*The average temperature in June is 74.94 degrees.
-*The average temperature in December is 71.04 degrees.
-*There are more datapoints for June than there are for December. 
+* The average temperature in June is 74.94 degrees.
+* The average temperature in December is 71.04 degrees.
+* There are more datapoints for June than there are for December. 
 
 ## Summary
 
